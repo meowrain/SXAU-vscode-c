@@ -22,17 +22,17 @@ https://blog.csdn.net/XQC_KKK/article/details/124611111
 
 ## 安装中文语言
 
-![](.\image\02.png)
+![](./image/02.png)
 
 搜索`Chinese`，安装中文语言
 
-![](.\image\03.png)
+![](./image/03.png)
 
 
 
 ## 安装C/C++插件
 
-![](.\image\04.png)
+![](./image/04.png)
 
 
 
@@ -40,7 +40,7 @@ https://blog.csdn.net/XQC_KKK/article/details/124611111
 
 在你的项目文件夹中新建 `.vscode` 文件夹，在这个文件夹下创建 `launch.json`和`tasks.json`文件
 
-![](.\image\05.png)
+![](./image/05.png)
 
 
 
@@ -165,7 +165,7 @@ tasks.json
 }
 ```
 
-![06](.\image\06.png)
+![](./image/06.png)
 
 
 
@@ -173,10 +173,10 @@ tasks.json
 
 # 5.使用
 
-![07](.\image\07.png)
+![](./image/07.png)
 
-![08](.\image\08.png)
+![](./image/08.png)
 
-![09](.\image\09.png)
+![](./image/09.png)
 
-![10](.\image\10.png)
+![](./image/10.png)
