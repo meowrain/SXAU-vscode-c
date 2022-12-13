@@ -22,11 +22,11 @@ https://blog.csdn.net/XQC_KKK/article/details/124611111
 
 ## 安装中文语言
 
-<img src=".\image\02.png" alt="02" style="zoom:25%;" />
+![](.\image\02.png)
 
 搜索`Chinese`，安装中文语言
 
-![03](.\image\03.png)
+![](.\image\03.png)
 
 
 
