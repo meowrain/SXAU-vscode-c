@@ -1,8 +1,9 @@
 # Cmake配置
-![](README-CMake.md)
+> linux上使用
+![Cmake配置](README-CMake.md)
 
 ---
 
 
 # VSCODE
-![](README-vscode.md)
+![vscode配置](README-vscode.md)
